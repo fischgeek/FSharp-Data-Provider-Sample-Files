@@ -16,6 +16,9 @@
     "APIToken": "string",
     "DefaultListId": "string"
   },
+  "Toggl": {
+    "APIToken": "string"
+  },
   "GoogleCalendarIds": [
     "primary",
     "string"
