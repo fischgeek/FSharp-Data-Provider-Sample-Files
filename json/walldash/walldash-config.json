@@ -23,5 +23,8 @@
   "Drives": [
     "C",
     "E"
-  ]
+  ],
+  "CacheFiles": {
+    "Weather": "c:/dev/temp/walldash/weather.txt"
+  }
 }
