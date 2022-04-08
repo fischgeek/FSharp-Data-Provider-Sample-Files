@@ -1,0 +1,13 @@
+﻿{
+  "Trello": {
+    "APIKey": "string",
+    "APIToken": "string",
+    "BoardId": "string",
+    "TodayListId": "string",
+    "TomorrowListId": "string",
+    "AllDayLabelId": "string"
+  },
+  "Calendars": [
+    { "Id": "string", "Name": "string" }
+  ]
+}

@@ -1,0 +1,106 @@
+﻿{
+  "results": [{
+    "address_components": [{
+        "long_name": "string",
+        "short_name": "string",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "string",
+        "short_name": "string",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "string",
+        "short_name": "string",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "string",
+        "short_name": "string",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "string",
+        "short_name": "Cstring",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "string",
+        "short_name": "string",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "string",
+        "short_name": "string",
+        "types": [
+          "postal_code"
+        ]
+      },
+      {
+        "long_name": "string",
+        "short_name": "string",
+        "types": [
+          "postal_code_suffix"
+        ]
+      }
+    ],
+    "formatted_address": "string",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 0.0,
+          "lng": 0.0
+        },
+        "southwest": {
+          "lat": 0.0,
+          "lng": 0.0
+        }
+      },
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 0.0,
+          "lng": 0.0
+        },
+        "southwest": {
+          "lat": 0.0,
+          "lng": 0.0
+        }
+      }
+    },
+    "place_id": "string",
+    "types": [
+      "premise"
+    ]
+  }],
+  "status": "OK"
+}
