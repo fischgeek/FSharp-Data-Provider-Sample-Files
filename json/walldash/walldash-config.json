@@ -10,9 +10,13 @@
   "TomorrowIoApiKey": "string",
   "TomorrowIoTimeZone": "America/Chicago",
   "TomorrowIoUnits": "imperial",
-  "MOTDSource": "string",
+  "MOTDMode": "string",
   "Lat": "string",
   "Lon": "string",
+  "MOTD": {
+    "Mode": "WordOfTheDay|VerseOfTheDay|RandomQuote",
+    "WordOfTheDaySource": "merriam-webster|dictionary.com"
+  },
   "Trello": {
     "APIKey": "string",
     "APIToken": "string",
