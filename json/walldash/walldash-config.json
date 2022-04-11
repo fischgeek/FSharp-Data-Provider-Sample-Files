@@ -36,7 +36,8 @@
     "Source": "OpenWeather|WeatherBit|TomorrowIo|WeatherAPI"
   },
   "WeatherAPI": {
-    "APIKey": "string"
+    "APIKey": "string",
+    "Zip": 12345
   },
   "WeatherBit": {
     "APIKey": "string"
