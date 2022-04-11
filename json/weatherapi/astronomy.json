@@ -1,0 +1,22 @@
+{
+  "location": {
+    "name": "Fargo",
+    "region": "North Dakota",
+    "country": "USA",
+    "lat": 46.82,
+    "lon": -96.81,
+    "tz_id": "America/Chicago",
+    "localtime_epoch": 1649708019,
+    "localtime": "2022-04-11 15:13"
+  },
+  "astronomy": {
+    "astro": {
+      "sunrise": "06:47 AM",
+      "sunset": "08:10 PM",
+      "moonrise": "02:15 PM",
+      "moonset": "05:03 AM",
+      "moon_phase": "First Quarter",
+      "moon_illumination": "67"
+    }
+  }
+}

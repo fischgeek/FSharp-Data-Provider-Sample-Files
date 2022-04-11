@@ -4,12 +4,6 @@
   "TempHTMLFile": "c:\\dev\\temp\\walldash\\temp.html",
   "WallpaperFile": "c:\\dev\\temp\\walldash\\wallpaper.png",
   "BackgroundImage": "c:/dev/temp/walldash/background.png",
-  "DesiredWeatherSource": "OpenWeather|WeatherBit|TomorrowIo",
-  "WeatherBitApiKey": "string",
-  "OpenWeatherApiKey": "string",
-  "TomorrowIoApiKey": "string",
-  "TomorrowIoTimeZone": "America/Chicago",
-  "TomorrowIoUnits": "imperial",
   "MOTDMode": "string",
   "Lat": "string",
   "Lon": "string",
@@ -35,6 +29,24 @@
   ],
   "CacheFiles": {
     "Weather": "c:/dev/temp/walldash/weather.txt",
-    "Calendar": "c:/dev/temp/walldash/calendar.txt"
+    "Calendar": "c:/dev/temp/walldash/calendar.txt",
+    "MOTD": "c:/dev/temp/walldash/motd.txt"
+  },
+  "Weather": {
+    "Source": "OpenWeather|WeatherBit|TomorrowIo|WeatherAPI"
+  },
+  "WeatherAPI": {
+    "APIKey": "string"
+  },
+  "WeatherBit": {
+    "APIKey": "string"
+  },
+  "OpenWeather": {
+    "APIKey": "string"
+  },
+  "TomorrowIo": {
+    "APIKey": "string",
+    "TimeZone": "America/Chicago",
+    "Units": "imperial"
   }
 }
