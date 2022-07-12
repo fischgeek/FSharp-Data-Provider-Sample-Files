@@ -205,6 +205,25 @@
         "name": "string",
         "color": "purple"
       }
+    ],
+    "customFieldItems": [{
+        "id": "string",
+        "value": {
+          "number": "string"
+        },
+        "idCustomField": "string",
+        "idModel": "string",
+        "modelType": "string"
+      },
+      {
+        "id": "string",
+        "value": {
+          "text": "string"
+        },
+        "idCustomField": "string",
+        "idModel": "string",
+        "modelType": "string"
+      }
     ]
   }
 ]
