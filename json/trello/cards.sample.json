@@ -1,5 +1,4 @@
-﻿[
-  {
+﻿[{
     "id": "string",
     "checkItemStates": [],
     "closed": false,
@@ -62,8 +61,7 @@
       "start": null
     },
     "subscribed": false,
-    "labels": [
-      {
+    "labels": [{
         "id": "string",
         "idBoard": "string",
         "name": "string",
@@ -92,6 +90,25 @@
         "idBoard": "string",
         "name": "string",
         "color": "purple"
+      }
+    ],
+    "customFieldItems": [{
+        "id": "string",
+        "value": {
+          "number": "string"
+        },
+        "idCustomField": "string",
+        "idModel": "string",
+        "modelType": "string"
+      },
+      {
+        "id": "string",
+        "value": {
+          "text": "string"
+        },
+        "idCustomField": "string",
+        "idModel": "string",
+        "modelType": "string"
       }
     ]
   },
@@ -158,8 +175,7 @@
       "start": null
     },
     "subscribed": false,
-    "labels": [
-      {
+    "labels": [{
         "id": "string",
         "idBoard": "string",
         "name": "string",
