@@ -1,0 +1,39 @@
+﻿{
+  "total_grand": 11689000,
+  "total_billable": 0,
+  "total_currencies": [
+    {
+      "currency": "string",
+      "amount": 0
+    }
+  ],
+  "data": [
+    {
+      "id": 171535820,
+      "title": {
+        "project": "string",
+        "client": "string",
+        "color": "string",
+        "hex_color": "string"
+      },
+      "time": 3908000,
+      "total_currencies": [
+        {
+          "currency": "string",
+          "amount": 0
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": "string"
+          },
+          "time": 3908000,
+          "cur": "string",
+          "sum": 0,
+          "rate": 0
+        }
+      ]
+    }
+  ]
+}

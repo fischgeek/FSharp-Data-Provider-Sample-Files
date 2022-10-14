@@ -1,0 +1,48 @@
+﻿[
+  {
+    "id": 1,
+    "guid": "string",
+    "wid": 1,
+    "pid": 1,
+    "billable": false,
+    "start": "2021-10-12T14:00:00+00:00",
+    "stop": "2021-10-12T14:30:00+00:00",
+    "duration": 1800,
+    "description": "string",
+    "tags": [
+      "billable"
+    ],
+    "duronly": false,
+    "at": "2021-10-13T14:17:10+00:00",
+    "uid": 1
+  },
+  {
+    "id": 1,
+    "guid": "string",
+    "wid": 1,
+    "pid": 1,
+    "billable": false,
+    "start": "2021-10-13T17:53:29+00:00",
+    "stop": "2021-10-13T19:23:29+00:00",
+    "duration": 1,
+    "description": "string",
+    "tags": [
+      "billable"
+    ],
+    "duronly": false,
+    "at": "2021-10-14T14:54:22+00:00",
+    "uid": 1
+  },
+  {
+    "id": 1,
+    "guid": "string",
+    "wid": 1,
+    "billable": false,
+    "start": "2021-10-14T14:33:35+00:00",
+    "duration": 1,
+    "description": "string",
+    "duronly": false,
+    "at": "2021-10-14T14:56:36+00:00",
+    "uid": 1
+  }
+]
