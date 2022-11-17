@@ -30,7 +30,8 @@
   "CacheFiles": {
     "Weather": "c:/dev/temp/walldash/weather.txt",
     "Calendar": "c:/dev/temp/walldash/calendar.txt",
-    "MOTD": "c:/dev/temp/walldash/motd.txt"
+    "MOTD": "c:/dev/temp/walldash/motd.txt",
+    "SpeedTest": "c/dev/temp/walldash/speedtest.txt"
   },
   "Weather": {
     "Source": "OpenWeather|WeatherBit|TomorrowIo|WeatherAPI"
