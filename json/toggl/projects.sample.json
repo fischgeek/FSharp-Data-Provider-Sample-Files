@@ -1,5 +1,4 @@
-﻿[
-  {
+﻿[{
     "id": 1,
     "workspace_id": 1,
     "client_id": 1,
@@ -28,7 +27,7 @@
   {
     "id": 1,
     "workspace_id": 1,
-    "client_id": 1,
+    "client_id": null,
     "name": "string",
     "is_private": true,
     "active": true,
