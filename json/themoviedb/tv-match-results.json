@@ -1,0 +1,69 @@
+{
+  "page": 1,
+  "results": [{
+      "adult": false,
+      "backdrop_path": "/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
+      "genre_ids": [
+        18,
+        10768
+      ],
+      "id": 4613,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Band of Brothers",
+      "overview": "Drawn from interviews with survivors of Easy Company, as well as their journals and letters, Band of Brothers chronicles the experiences of these men from paratrooper training in Georgia through the end of the war. As an elite rifle company parachuting into Normandy early on D-Day morning, participants in the Battle of the Bulge, and witness to the horrors of war, the men of Easy knew extraordinary bravery and extraordinary fear - and became the stuff of legend. Based on Stephen E. Ambrose's acclaimed book of the same name.",
+      "popularity": 65.851,
+      "poster_path": "/uC128zXoZ1MvtsxWbAu11qHcMi2.jpg",
+      "first_air_date": "2001-09-09",
+      "name": "Band of Brothers",
+      "vote_average": 8.5,
+      "vote_count": 3017
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10764
+      ],
+      "id": 18441,
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "밴드 오브 브라더스",
+      "overview": "Band of Brothers is a 30-minute long Korean music reality show broadcast on M-Net in which Heechul and Kangin of Super Junior, and Jay and Jungmo of TRAX form a \"tribute band\" to not only perform music by classic pop artists but they also explore the history about the band, their personal lives as well as the influence of their music.",
+      "popularity": 2.065,
+      "poster_path": null,
+      "first_air_date": "2008-10-25",
+      "name": "Band of Brothers",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nWfpVLgioDXQsAbfL6UJxYz6d3d.jpg",
+      "genre_ids": [
+        18,
+        10759,
+        10768
+      ],
+      "id": 16997,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Pacific",
+      "overview": "Track the intertwined real-life stories of three U.S. Marines – Robert Leckie, John Basilone, and Eugene Sledge – across the vast canvas of the Pacific Theater during World War II. A companion piece to the 2001 miniseries Band of Brothers.",
+      "popularity": 50.113,
+      "poster_path": "/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg",
+      "first_air_date": "2010-03-14",
+      "name": "The Pacific",
+      "vote_average": 7.735,
+      "vote_count": 2080
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 3
+}
