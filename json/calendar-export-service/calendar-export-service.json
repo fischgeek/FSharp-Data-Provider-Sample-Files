@@ -5,9 +5,10 @@
     "BoardId": "string",
     "TodayListId": "string",
     "TomorrowListId": "string",
+    "Day2ListId":"string",
     "Day3ListId":"string",
     "Day4ListId":"string",
-    "Day5istId":"string",
+    "Day5ListId":"string",
     "AllDayLabelId": "string"
   },
   "Calendars": [
